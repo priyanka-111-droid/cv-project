@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# CV Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+odin project - Full stack Javascript - CV Project
+Objectives:
+* React introduction
+* handling state and props using classes
 
 ## Available Scripts
 
