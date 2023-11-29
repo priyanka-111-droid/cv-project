@@ -36,10 +36,10 @@ class Experience extends Component{
                     <input type='date' id='work_to' value={this.work_to} onChange={(e)=>{this.props.changeHandler(e)}}/>
                 </div>
             </form>
-            <div id='btns'>
+            {/* <div id='btns'>
                     <button type='button'>Add</button>
                     <button type='button'>Delete</button>
-            </div>
+            </div> */}
             </section>
         )
     }

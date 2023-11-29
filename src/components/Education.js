@@ -43,10 +43,10 @@ class Education extends Component{
                     <input type='date' id='to' value={this.to} onChange={(e)=>{this.props.changeHandler(e)}}/>
                 </div>
             </form>
-            <div id='btns'>
+            {/* <div id='btns'>
                     <button type='button' onClick={this.onClickAdd}>Add</button>
                     <button type='button' onClick={this.onClickDel}>Delete</button>
-            </div>
+            </div> */}
             </section>
         )
     }
